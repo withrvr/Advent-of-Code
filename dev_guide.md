@@ -8,7 +8,7 @@
 ## 👀: EXAMPLE to execute
 
 1. `cd ./Problem/2022/Day_1/`
-2. `java Main.java`
+2. `java [file-name].java`
 
 # 📂: Folder Structure
 

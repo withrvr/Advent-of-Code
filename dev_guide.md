@@ -7,7 +7,7 @@
 
 ## 👀: EXAMPLE to execute
 
-1. `cd ./Problem/2022/Day-1/`
+1. `cd ./Problem/2022/Day_1/`
 2. `java Main.java`
 
 # 📂: Folder Structure
@@ -21,6 +21,6 @@
 ## Show case /... how actually is organized
 - Problem
   - 2022
-    - Day-1
+    - Day_1
       - Main.java
       - ...

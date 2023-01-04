@@ -7,8 +7,10 @@
 
 ## 👀: EXAMPLE to execute
 
-1. `cd ./Problem/2022/Day_1/`
-2. `java [file-name].java`
+1. `cd ./Problem/2022/Day_2/`
+2. ...
+   1. `java Part1.java`
+   2. `python main.py`
 
 # 📂: Folder Structure
 

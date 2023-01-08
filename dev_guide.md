@@ -8,9 +8,12 @@
 ## 👀: EXAMPLE to execute
 
 1. `cd ./Problem/2022/Day_2/`
-2. ...
-   1. `java Part1.java`
-   2. `python main.py`
+2. if individual files / if main file
+   - NOTE: try main always
+   - other may be sub files/classes
+   -
+   1. `python main.py`
+   2. `java Part1.java`
 
 # 📂: Folder Structure
 
